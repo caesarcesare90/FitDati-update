@@ -1,6 +1,6 @@
 {
-  "code": 13,
-  "name": "4.3.1",
+  "code": 14,
+  "name": "4.4",
   "apk": "FitDati.apk",
-  "notes": "Aggiornamenti automatici dall'app. Include tutte le novità della 4.3: scorrimento e zoom sui grafici, calendario, timeline, serie e traguardi, resoconto settimanale, sonno dal cloud, confronto con l'anno scorso, backup ed esportazione."
+  "notes": "Si apre sul giorno di oggi. Grafica e animazioni nuove: numeri che contano, card a cascata, riquadro principale animato, anelli sfumati, nuova barra in basso, scorri a destra/sinistra per cambiare giorno, trascina in basso per aggiornare."
 }
