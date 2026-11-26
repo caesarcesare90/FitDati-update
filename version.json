@@ -1,6 +1,6 @@
 {
-  "code": 15,
-  "name": "4.5",
+  "code": 16,
+  "name": "4.5.1",
   "apk": "FitDati.apk",
-  "notes": "Scorri a destra/sinistra per passare tra Giorno, Settimana, Mese, 3 mesi e Anno (scorri sulla data per cambiare giorno). Card principali animate: stelle nel Sonno, tracciato ECG e cuore che batte nel Cuore, scie in Attività, onde in Salute. Sfondo e colori che cambiano per ogni scheda, riquadri ridisegnati."
+  "notes": "Il dislivello non compare più (il Charge 6 non ha l'altimetro). Nei giorni con allenamenti GPS compare la salita calcolata dal percorso."
 }
