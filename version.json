@@ -1,6 +1,6 @@
 {
-  "code": 16,
-  "name": "4.5.1",
+  "code": 17,
+  "name": "4.6",
   "apk": "FitDati.apk",
-  "notes": "Il dislivello non compare più (il Charge 6 non ha l'altimetro). Nei giorni con allenamenti GPS compare la salita calcolata dal percorso."
+  "notes": "Nuova scheda Cibo: diario dei pasti, ricerca tra 140 alimenti comuni, foto del codice a barre (Open Food Facts) o del piatto (intelligenza artificiale Gemini), calorie mangiate contro bruciate dal Fitbit, macronutrienti e buone pratiche personalizzate."
 }
