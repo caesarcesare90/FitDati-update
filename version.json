@@ -1,6 +1,6 @@
 {
-  "code": 14,
-  "name": "4.4",
+  "code": 15,
+  "name": "4.5",
   "apk": "FitDati.apk",
-  "notes": "Si apre sul giorno di oggi. Grafica e animazioni nuove: numeri che contano, card a cascata, riquadro principale animato, anelli sfumati, nuova barra in basso, scorri a destra/sinistra per cambiare giorno, trascina in basso per aggiornare."
+  "notes": "Scorri a destra/sinistra per passare tra Giorno, Settimana, Mese, 3 mesi e Anno (scorri sulla data per cambiare giorno). Card principali animate: stelle nel Sonno, tracciato ECG e cuore che batte nel Cuore, scie in Attività, onde in Salute. Sfondo e colori che cambiano per ogni scheda, riquadri ridisegnati."
 }
