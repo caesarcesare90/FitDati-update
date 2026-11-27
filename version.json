@@ -1,6 +1,6 @@
 {
-  "code": 19,
-  "name": "4.7",
+  "code": 20,
+  "name": "4.7.1",
   "apk": "FitDati.apk",
-  "notes": "Scheda Cibo ridisegnata: bollicine animate, anelli di proteine/carboidrati/grassi, pulsanti colorati, linea del tempo dei pasti con + per pasto, buone pratiche a schede scorrevoli. In Salute › Controllo dati c'è il controllo delle calorie di oggi."
+  "notes": "Riconoscimento del cibo dalla foto più veloce e affidabile, con messaggi di errore più chiari."
 }
