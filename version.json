@@ -1,6 +1,6 @@
 {
-  "code": 18,
-  "name": "4.6.1",
+  "code": 19,
+  "name": "4.7",
   "apk": "FitDati.apk",
-  "notes": "Corrette le calorie bruciate di oggi: ora contano solo fino all'ora attuale."
+  "notes": "Scheda Cibo ridisegnata: bollicine animate, anelli di proteine/carboidrati/grassi, pulsanti colorati, linea del tempo dei pasti con + per pasto, buone pratiche a schede scorrevoli. In Salute › Controllo dati c'è il controllo delle calorie di oggi."
 }
