@@ -1,6 +1,6 @@
 {
-  "code": 17,
-  "name": "4.6",
+  "code": 18,
+  "name": "4.6.1",
   "apk": "FitDati.apk",
-  "notes": "Nuova scheda Cibo: diario dei pasti, ricerca tra 140 alimenti comuni, foto del codice a barre (Open Food Facts) o del piatto (intelligenza artificiale Gemini), calorie mangiate contro bruciate dal Fitbit, macronutrienti e buone pratiche personalizzate."
+  "notes": "Corrette le calorie bruciate di oggi: ora contano solo fino all'ora attuale."
 }
