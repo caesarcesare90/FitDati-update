@@ -1,6 +1,6 @@
 {
-  "code": 20,
-  "name": "4.7.1",
+  "code": 21,
+  "name": "4.7.2",
   "apk": "FitDati.apk",
-  "notes": "Riconoscimento del cibo dalla foto più veloce e affidabile, con messaggi di errore più chiari."
+  "notes": "Riconoscimento del cibo: l'app sceglie da sola i modelli Gemini disponibili per la tua chiave."
 }
